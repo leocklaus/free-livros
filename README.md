@@ -446,6 +446,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Ebook - Desconstruindo a Web - As tecnologias por trás de uma requisição](https://github.com/EstherCecilia/free-livros/files/14139541/Ebook.-.Desconstruindo.a.Web.-.As.tecnologias.por.tras.de.uma.requisicao.-.Casa.Do.Codigo.pdf)
 
+- [Redes de Computadores - Tanenbaum 6 edição (PT)]([link para acessar](https://archive.org/download/tanenbaum-rede-de-computadores-6a/Tanenbaum%20Rede%20de%20Computadores%206a.pdf))
 
 ```markdown
 --- Shell Script:
@@ -716,3 +717,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 | ![Samuel Nogueira Bacelar](https://avatars.githubusercontent.com/u/48574832?s=96&v=4) | ![Andrey Mateus](https://avatars.githubusercontent.com/u/68996182?v=4) | ![Fredi Machado](https://avatars.githubusercontent.com/u/29800?v=4) | ![Jennyfer Lima](https://avatars.githubusercontent.com/u/32622359?v=4) | ![Diego Faria](https://avatars.githubusercontent.com/u/21007712?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Samuel Nogueira Bacelar](https://github.com/g4nor4) | [Andrey Mateus](https://github.com/AndreyMateus) | [Fredi Machado](https://github.com/fredimachado) | [Jennyfer Lima](https://github.com/Jenny) | [Diego Faria](https://github.com/diegodrf)
+
+| ![Leonardo Klaus](https://avatars.githubusercontent.com/u/68715722?v=4) |
+|:---:|
+| ![Leonardo Klaus](https://github.com/leocklaus) |
